@@ -21,7 +21,7 @@ My research interests can be concluded as follow:
 Publication
 ======
 - **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query <br> **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang.
-- (Under Submission) Cimos: Cost-Effective Multi-Query Oriented Continuous Subgraph Matching <br> **Ziqi Zou**, Kangfei Zhao, Qiyan Li, Zhiwei Zhang, Lizhong Ding, Xuefeng Zhao, Peng Wu.
+- **[CIKM 2026]** Cimos: Cost-Effective Multi-Query Oriented Continuous Subgraph Matching <br> **Ziqi Zou**, Kangfei Zhao, Qiyan Li, Zhiwei Zhang, Lizhong Ding, Xuefeng Zhao, Peng Wu.
 - (Under Submission) Towards Online Adaptive LLM-based Semantic Filtering <br> **Ziqi Zou**, Zhenyan Nie, Kangfei Zhao, Zhiwei Zhang, Aoqian Zhang, Peng Wu, Xuefeng Zhao.
 - (Under Submission) EventDial: Decoupling Semantic Indexing from Dialogue Evidence for Long-Term Conversational Memory <br> Zhenyan Nie, **Ziqi Zou**, Zhiwei Zhang, Shuai Zhao.
 - (Under Submission) ISPG: Cost-based Interleaved Plan Generation for SQL/PGQ Queries <br> Yiwen Li, Zhiwei Zhang, **Ziqi Zou**, Kangfei Zhao, Shuai Zhao, Hao Zhang, Ye Yuan.
